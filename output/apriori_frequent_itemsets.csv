@@ -1,0 +1,130 @@
+itemsets_text,itemset_size,support
+Book,1,0.9755747126436781
+Video,1,0.9238505747126436
+AudioBook,1,0.9123563218390804
+Desk Circulation,1,0.875
+Music,1,0.8692528735632183
+Express Circulation,1,0.7916666666666666
+Other,1,0.7054597701149425
+Hotspots,1,0.6910919540229885
+Laptops,1,0.28304597701149425
+"Book, Video",2,0.9238505747126436
+"AudioBook, Book",2,0.9123563218390804
+"AudioBook, Video",2,0.8979885057471264
+"Book, Music",2,0.8692528735632183
+"Music, Video",2,0.8663793103448276
+"AudioBook, Music",2,0.8635057471264368
+"Book, Desk Circulation",2,0.8520114942528736
+"AudioBook, Desk Circulation",2,0.8103448275862069
+"Desk Circulation, Video",2,0.8103448275862069
+"Desk Circulation, Music",2,0.7974137931034483
+"Book, Express Circulation",2,0.7916666666666666
+"AudioBook, Express Circulation",2,0.7902298850574713
+"Desk Circulation, Express Circulation",2,0.7902298850574713
+"Express Circulation, Music",2,0.7902298850574713
+"Express Circulation, Video",2,0.7902298850574713
+"Book, Hotspots",2,0.6910919540229885
+"AudioBook, Hotspots",2,0.6896551724137931
+"Hotspots, Music",2,0.6882183908045977
+"Hotspots, Video",2,0.6882183908045977
+"Book, Other",2,0.6810344827586207
+"Desk Circulation, Other",2,0.6724137931034483
+"Music, Other",2,0.6681034482758621
+"AudioBook, Other",2,0.6666666666666666
+"Other, Video",2,0.6666666666666666
+"Desk Circulation, Hotspots",2,0.6637931034482759
+"Express Circulation, Hotspots",2,0.6609195402298851
+"Express Circulation, Other",2,0.6364942528735632
+"Hotspots, Other",2,0.5761494252873564
+"AudioBook, Laptops",2,0.28304597701149425
+"Book, Laptops",2,0.28304597701149425
+"Laptops, Music",2,0.28304597701149425
+"Laptops, Video",2,0.28304597701149425
+"Desk Circulation, Laptops",2,0.27586206896551724
+"Express Circulation, Laptops",2,0.27586206896551724
+"Hotspots, Laptops",2,0.24568965517241378
+"Laptops, Other",2,0.23850574712643677
+"AudioBook, Book, Video",3,0.8979885057471264
+"Book, Music, Video",3,0.8663793103448276
+"AudioBook, Book, Music",3,0.8635057471264368
+"AudioBook, Music, Video",3,0.8635057471264368
+"AudioBook, Book, Desk Circulation",3,0.8103448275862069
+"Book, Desk Circulation, Video",3,0.8103448275862069
+"AudioBook, Desk Circulation, Video",3,0.8002873563218391
+"Book, Desk Circulation, Music",3,0.7974137931034483
+"Desk Circulation, Music, Video",3,0.7945402298850575
+"AudioBook, Desk Circulation, Music",3,0.7931034482758621
+"AudioBook, Book, Express Circulation",3,0.7902298850574713
+"Book, Desk Circulation, Express Circulation",3,0.7902298850574713
+"Book, Express Circulation, Music",3,0.7902298850574713
+"Book, Express Circulation, Video",3,0.7902298850574713
+"Express Circulation, Music, Video",3,0.7902298850574713
+"AudioBook, Desk Circulation, Express Circulation",3,0.7887931034482759
+"AudioBook, Express Circulation, Music",3,0.7887931034482759
+"AudioBook, Express Circulation, Video",3,0.7887931034482759
+"Desk Circulation, Express Circulation, Music",3,0.7887931034482759
+"Desk Circulation, Express Circulation, Video",3,0.7887931034482759
+"AudioBook, Book, Hotspots",3,0.6896551724137931
+"AudioBook, Hotspots, Music",3,0.6882183908045977
+"AudioBook, Hotspots, Video",3,0.6882183908045977
+"Book, Hotspots, Music",3,0.6882183908045977
+"Book, Hotspots, Video",3,0.6882183908045977
+"Hotspots, Music, Video",3,0.6882183908045977
+"Book, Music, Other",3,0.6681034482758621
+"AudioBook, Book, Other",3,0.6666666666666666
+"AudioBook, Other, Video",3,0.6666666666666666
+"Book, Other, Video",3,0.6666666666666666
+"AudioBook, Music, Other",3,0.6652298850574713
+"Music, Other, Video",3,0.6652298850574713
+"Book, Desk Circulation, Hotspots",3,0.6637931034482759
+"AudioBook, Desk Circulation, Hotspots",3,0.6623563218390804
+"AudioBook, Express Circulation, Hotspots",3,0.6609195402298851
+"Book, Express Circulation, Hotspots",3,0.6609195402298851
+"Desk Circulation, Express Circulation, Hotspots",3,0.6609195402298851
+"Desk Circulation, Hotspots, Music",3,0.6609195402298851
+"Desk Circulation, Hotspots, Video",3,0.6609195402298851
+"Express Circulation, Hotspots, Music",3,0.6609195402298851
+"Express Circulation, Hotspots, Video",3,0.6609195402298851
+"Book, Desk Circulation, Other",3,0.6494252873563219
+"Desk Circulation, Music, Other",3,0.6379310344827587
+"AudioBook, Express Circulation, Other",3,0.6364942528735632
+"Book, Express Circulation, Other",3,0.6364942528735632
+"Express Circulation, Music, Other",3,0.6364942528735632
+"Express Circulation, Other, Video",3,0.6364942528735632
+"AudioBook, Desk Circulation, Other",3,0.6350574712643678
+"Desk Circulation, Express Circulation, Other",3,0.6350574712643678
+"Desk Circulation, Other, Video",3,0.6350574712643678
+"AudioBook, Hotspots, Other",3,0.5761494252873564
+"Book, Hotspots, Other",3,0.5761494252873564
+"Hotspots, Music, Other",3,0.5761494252873564
+"Hotspots, Other, Video",3,0.5761494252873564
+"Desk Circulation, Hotspots, Other",3,0.5488505747126436
+"Express Circulation, Hotspots, Other",3,0.5488505747126436
+"AudioBook, Book, Laptops",3,0.28304597701149425
+"AudioBook, Laptops, Music",3,0.28304597701149425
+"AudioBook, Laptops, Video",3,0.28304597701149425
+"Book, Laptops, Music",3,0.28304597701149425
+"Book, Laptops, Video",3,0.28304597701149425
+"Laptops, Music, Video",3,0.28304597701149425
+"AudioBook, Desk Circulation, Laptops",3,0.27586206896551724
+"AudioBook, Express Circulation, Laptops",3,0.27586206896551724
+"Book, Desk Circulation, Laptops",3,0.27586206896551724
+"Book, Express Circulation, Laptops",3,0.27586206896551724
+"Desk Circulation, Express Circulation, Laptops",3,0.27586206896551724
+"Desk Circulation, Laptops, Music",3,0.27586206896551724
+"Desk Circulation, Laptops, Video",3,0.27586206896551724
+"Express Circulation, Laptops, Music",3,0.27586206896551724
+"Express Circulation, Laptops, Video",3,0.27586206896551724
+"AudioBook, Hotspots, Laptops",3,0.24568965517241378
+"Book, Hotspots, Laptops",3,0.24568965517241378
+"Hotspots, Laptops, Music",3,0.24568965517241378
+"Hotspots, Laptops, Video",3,0.24568965517241378
+"AudioBook, Laptops, Other",3,0.23850574712643677
+"Book, Laptops, Other",3,0.23850574712643677
+"Desk Circulation, Hotspots, Laptops",3,0.23850574712643677
+"Express Circulation, Hotspots, Laptops",3,0.23850574712643677
+"Laptops, Music, Other",3,0.23850574712643677
+"Laptops, Other, Video",3,0.23850574712643677
+"Desk Circulation, Laptops, Other",3,0.23132183908045978
+"Express Circulation, Laptops, Other",3,0.23132183908045978
+"Hotspots, Laptops, Other",3,0.21264367816091953
